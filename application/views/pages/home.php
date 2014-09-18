@@ -1,8 +1,3 @@
-<?php
-sleep(rand(0,3));
-?>
-
-
 <!-- product image carousel -->
 <div id="product-carousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
